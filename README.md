@@ -1,2 +1,37 @@
-# Login-Form
-This project is a simple Login Form built using HTML and CSS. It includes a username and password input field, a "Remember Me" checkbox, and links for password recovery and registration. The form is styled with CSS to make it responsive and modern, including hover effects and icons from Boxicons.
+🔐 Login Form using HTML & CSS
+📝 Description
+
+A simple and responsive Login Form built with HTML and CSS.
+This project demonstrates how to design a modern login page with background image, styled input fields, and icons using Boxicons.
+
+✨ Features
+
+Responsive design 📱💻
+
+Username & password input fields 🔑
+
+"Remember Me" checkbox ✅
+
+Forgot password & Register links 🔗
+
+Boxicons integration for input icons 🎨
+
+Custom background image 🌆
+
+📂 Project Structure
+project-folder/
+│── index.html
+│── style.css
+└── images/
+    └── bg.jpg
+
+🚀 How to Run
+
+Clone this repository:
+
+git clone https://github.com/your-username/login-form-html-css.git
+
+
+Open the project folder.
+
+Run index.html in your browser.
